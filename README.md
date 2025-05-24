@@ -1,4 +1,5 @@
-# SUVectorDB
+# SUVECTORDB
+
 ## Vector Database Fundamentals Specialization (4 course series)
 
 Vector databases are the engines behind AI applications. Companies investing heavily in AI need expertise to build AI-powered technologies such as recommendation engines, search engine information retrieval, machine learning tasks, data analysis, semantic matching, and content generation. 
